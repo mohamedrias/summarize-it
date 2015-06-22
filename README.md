@@ -14,7 +14,7 @@ Type /summarize-it-command-name to initiate the plugin. The plugin will automati
 Slack, HP IDOL OnDemand.
 
 ## Authors and Contributors
-Yask Srivastava (Developer), [Ketan Bhatt](https://github.com/ketanbhatt) (Developer), [Pranu Sarna](https://github.com/psarna94) (Developer) and [Vinayak Mehta](https://github.com/vortex-ape) (Data Scientist).
+[Yask Srivastava](https://github.com/yask123) (Developer), [Ketan Bhatt](https://github.com/ketanbhatt) (Developer), [Pranu Sarna](https://github.com/psarna94) (Developer) and Vinayak Mehta (Data Scientist).
 
 ## Support or Contact
 Having trouble with summarize it? Create an issue in the repository GitHub Repo.
